@@ -1,10 +1,10 @@
 # Rift Coin
 
-# vmd
-[![NPM version][version-image]][version-url]
+[![Version][version-image]][version-url]
 [![build status][travis-image]][travis-url]
 [![Downloads][downloads-image]][downloads-url]
 [![Codacy Badge][codacy-image]][codacy-url]
+[![Tests][tests-image]][tests-url]
 
 Preview markdown files in a separate window. Markdown is formatted exactly the
 same as on GitHub.
@@ -194,12 +194,14 @@ and [contributors](https://github.com/yoshuawuyts/vmd/graphs/contributors).
 
 [MIT](https://tldrlegal.com/license/mit-license)
 
-[version-image]: https://img.shields.io/appveyor/tests/NZSmartie/coap-net-iu0to.svg
+[version-image]: https://img.shields.io/badge/Version-Beta-green.svg
 [version-url]: https://npmjs.org/package/vmd
 [travis-image]: https://img.shields.io/github/license/RiftCoin/RiftCoin.svg
 [travis-url]: https://img.shields.io/github/license/RiftCoin/RiftCoin.svg
 [downloads-image]: http://img.shields.io/npm/dm/vmd.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/vmd
+[tests-image]: https://img.shields.io/badge/tests-passed%20489%2C%20failed%202%2C%20skipped%202-yellow.svg
+[tests-url]: https://img.shields.io/badge/tests-passed%20489%2C%20failed%202%2C%20skipped%202-yellow.svg
 [emoji-cheat-sheet]: http://www.emoji-cheat-sheet.com/
 [codacy-image]: https://img.shields.io/codacy/grade/ccaa489b6f664ebd9a12d900334be10f/master.svg?style=flat-square
 [codacy-url]: https://www.codacy.com/app/maxkueng/vmd?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yoshuawuyts/vmd&amp;utm_campaign=Badge_Grade
