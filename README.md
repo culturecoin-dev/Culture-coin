@@ -1,7 +1,7 @@
 # Rift Coin
 
 # vmd
-[![NPM version][npm-image]][npm-url]
+[![NPM version][version-image]][version-url]
 [![build status][travis-image]][travis-url]
 [![Downloads][downloads-image]][downloads-url]
 [![Codacy Badge][codacy-image]][codacy-url]
@@ -194,10 +194,10 @@ and [contributors](https://github.com/yoshuawuyts/vmd/graphs/contributors).
 
 [MIT](https://tldrlegal.com/license/mit-license)
 
-[npm-image]: https://img.shields.io/npm/v/vmd.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/vmd
-[travis-image]: https://img.shields.io/travis/yoshuawuyts/vmd/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/yoshuawuyts/vmd
+[version-image]: https://img.shields.io/appveyor/tests/NZSmartie/coap-net-iu0to.svg
+[version-url]: https://npmjs.org/package/vmd
+[travis-image]: https://img.shields.io/github/license/RiftCoin/RiftCoin.svg
+[travis-url]: https://img.shields.io/github/license/RiftCoin/RiftCoin.svg
 [downloads-image]: http://img.shields.io/npm/dm/vmd.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/vmd
 [emoji-cheat-sheet]: http://www.emoji-cheat-sheet.com/
