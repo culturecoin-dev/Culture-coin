@@ -196,7 +196,7 @@ and [contributors](https://github.com/yoshuawuyts/vmd/graphs/contributors).
 
 [version-image]: https://img.shields.io/badge/Version-Beta-green.svg
 [version-url]: https://npmjs.org/package/vmd
-[travis-image]: https://img.shields.io/github/license/CultureCoin/CultureCoin.svg
+[travis-image]: https://img.shields.io/github/license/culturecoin-dev/Culture-coin.svg
 [travis-url]: https://img.shields.io/github/license/culturecoin-dev/Culture-coin.svg
 [downloads-image]: http://img.shields.io/npm/dm/vmd.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/vmd
