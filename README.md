@@ -1,4 +1,4 @@
-# Rift Coin
+# Culture Coin
 
 [![Version][version-image]][version-url]
 [![build status][travis-image]][travis-url]
@@ -196,8 +196,8 @@ and [contributors](https://github.com/yoshuawuyts/vmd/graphs/contributors).
 
 [version-image]: https://img.shields.io/badge/Version-Beta-green.svg
 [version-url]: https://npmjs.org/package/vmd
-[travis-image]: https://img.shields.io/github/license/RiftCoin/RiftCoin.svg
-[travis-url]: https://img.shields.io/github/license/RiftCoin/RiftCoin.svg
+[travis-image]: https://img.shields.io/github/license/CultureCoin/CultureCoin.svg
+[travis-url]: https://img.shields.io/github/license/CultureCoin/CultureCoin.svg
 [downloads-image]: http://img.shields.io/npm/dm/vmd.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/vmd
 [tests-image]: https://img.shields.io/badge/tests-passed%20489%2C%20failed%202%2C%20skipped%202-yellow.svg
