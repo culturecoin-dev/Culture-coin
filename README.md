@@ -1,9 +1,7 @@
 # Culture Coin
 
 [![Version][version-image]][version-url]
-[![build status][travis-image]][travis-url]
-[![Downloads][downloads-image]][downloads-url]
-[![Codacy Badge][codacy-image]][codacy-url]
+[![Build status][build-image]][build-url]
 [![Tests][tests-image]][tests-url]
 
 Preview markdown files in a separate window. Markdown is formatted exactly the
@@ -196,10 +194,8 @@ and [contributors](https://github.com/yoshuawuyts/vmd/graphs/contributors).
 
 [version-image]: https://img.shields.io/badge/Version-Beta-green.svg
 [version-url]: https://npmjs.org/package/vmd
-[travis-image]: https://img.shields.io/github/license/culturecoin-dev/Culture-coin.svg
-[travis-url]: https://img.shields.io/github/license/culturecoin-dev/Culture-coin.svg
-[downloads-image]: http://img.shields.io/npm/dm/vmd.svg?style=flat-square
-[downloads-url]: https://npmjs.org/package/vmd
+[build-image]: https://img.shields.io/badge/Build-Success-brightgreen.svg
+[build-url]: https://img.shields.io/badge/Build-Success-brightgreen.svg
 [tests-image]: https://img.shields.io/badge/tests-passed%20489%2C%20failed%202%2C%20skipped%202-yellow.svg
 [tests-url]: https://img.shields.io/badge/tests-passed%20489%2C%20failed%202%2C%20skipped%202-yellow.svg
 [emoji-cheat-sheet]: http://www.emoji-cheat-sheet.com/
